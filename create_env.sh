@@ -4,8 +4,8 @@
 cat > .env << 'EOF'
 # Reddit API Credentials
 # Get these from https://www.reddit.com/prefs/apps
-REDDIT_CLIENT_ID=fay@intallaga.com
-REDDIT_CLIENT_SECRET=intallaga188a
+REDDIT_CLIENT_ID=
+REDDIT_CLIENT_SECRET=
 
 # User agent is auto-generated to look more human-like
 
